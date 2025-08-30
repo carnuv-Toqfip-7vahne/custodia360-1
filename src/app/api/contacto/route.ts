@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server'
+// TEMPORARILY DISABLED FOR DEPLOYMENT
 import { resend, FROM_EMAIL, emailTemplates } from '@/lib/resend'
 
 export async function POST(request: Request) {

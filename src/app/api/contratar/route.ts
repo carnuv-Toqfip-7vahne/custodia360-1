@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server'
+// TEMPORARILY DISABLED FOR DEPLOYMENT
 import { resend, FROM_EMAIL } from '@/lib/resend'
 import { professionalEmailTemplates } from '@/lib/email-templates'
 
