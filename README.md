@@ -194,3 +194,5 @@ Este proyecto ha sido desarrollado utilizando [Same.new](https://same.new), la p
 ### 🎉 **¿Listo para implementar LOPIVI?**
 
 **Visita [custodia360.es](https://custodia360.es) y protege tu entidad en 72 horas.**
+
+<!-- Last deployment trigger: 2025-08-30 12:19 UTC -->
